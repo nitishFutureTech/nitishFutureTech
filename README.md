@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Nitish Kumar
-**A passionate Computer Application || Frontend Developer  || Kafka Admin from India**
+**A passionate Software Engineer || Graphic Design  **
 
 Email Me 👉 ✉️ **nitishkumarkushwahaji1126@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
