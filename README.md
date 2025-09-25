@@ -1,3 +1,14 @@
+# 💫 Hi 👋, I'm Nitish Kumar
+**A passionate Computer Application || Frontend Developer  || Kafka Admin from India**
+
+Email Me 👉 ✉️ **nitishkumarkushwahaji1126@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently working on:** Frontend Development
+- 🌱 **I’m currently learning:** Computer Application
+- 🤔 **I’m looking for help with:** Your project here
+- 💬 **Ask me about:** Collaboration, Tech Support
+- 📫 **How to reach me:** nitishkumarkushwahaji1126@gmail.com
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me
 ## Hi there 👋
 
 <!--
